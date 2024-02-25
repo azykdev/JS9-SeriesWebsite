@@ -1,0 +1,67 @@
+{
+  "menu": [
+    {
+      "src": "img/tabs/1.png",
+      "alt": "vegy",
+      "title": "Plan Usual",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10
+    },
+    {
+      "src": "img/tabs/2.jpg",
+      "alt": "elite",
+      "title": "Plan Premiup",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 15
+    },
+    {
+      "src": "img/tabs/4.jpg",
+      "alt": "post",
+      "title": "Plan Vip",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 20
+    }
+  ],
+  "request": [
+    {
+      "name": "Azizbek",
+      "phone": "+998912428565",
+      "id": 15
+    },
+    {
+      "name": "Azizbek",
+      "phone": "+998912428565",
+      "id": 16
+    },
+    {
+      "name": "Azizbek",
+      "phone": "+998912428565",
+      "id": 17
+    },
+    {
+      "name": "Azizbek",
+      "phone": "+998912428565",
+      "id": 18
+    },
+    {
+      "name": "Azizbek",
+      "phone": "+998912428565",
+      "id": 19
+    },
+    {
+      "name": "Azizbek",
+      "phone": "+998912428565",
+      "id": 20
+    },
+    {
+      "name": "acacd",
+      "phone": "+998912428565",
+      "id": 21
+    },
+    {
+      "name": "Azizbek",
+      "phone": "+998912428565",
+      "id": 22
+    }
+  ]
+}

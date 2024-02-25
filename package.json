@@ -1,0 +1,24 @@
+{
+  "name": "series-site",
+  "version": "1.0.0",
+  "description": "Hi there ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aziz4ek/loyiha1.git"
+  },
+  "keywords": [],
+  "author": "Azizbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aziz4ek/loyiha1/issues"
+  },
+  "homepage": "https://github.com/aziz4ek/loyiha1#readme",
+  "dependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
